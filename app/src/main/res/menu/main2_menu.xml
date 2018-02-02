@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.pooja2306.mysqllogin.Main2Activity">
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="100"
+        android:title="Update Profile"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About us"
+        app:showAsAction="never"/>
+    <item
+        app:showAsAction="never"
+        android:title="Contact Us"
+        android:orderInCategory="100"
+        android:id="@+id/contact"/>
+    <item
+        app:showAsAction="never"
+        android:title="Logout"
+        android:orderInCategory="100"
+        android:id="@+id/logout"
+        />
+</menu>

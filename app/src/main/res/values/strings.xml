@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MysqlLogin</string>
+    <string name="title_activity_page_two">PageTwo</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_contact">Contact</string>
+</resources>
